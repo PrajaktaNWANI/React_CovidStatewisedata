@@ -39,7 +39,7 @@ const Covidapi = () => {
                                     <td>{curElem.confirmed}</td>
                                     <td>{curElem.recovered}</td>
                                     <td>{curElem.deaths}</td>
-                                    <td>{curElem.actives}</td>
+                                    <td>{curElem.active}</td>
                                     <td>{curElem.lastupdatedtime}</td>
                                 </tr>
                             );
